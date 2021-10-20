@@ -1,0 +1,3 @@
+- Hi, I’m Jackson
+- I’m interested in data science and bioinformatics
+- I’m currently in a Data Science and Analytics Masters program with University of Missouri
